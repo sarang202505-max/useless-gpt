@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 // --- Main App Component ---
-function App() {
+function App() 
   const [userInput, setUserInput] = useState('');
   const [conversation, setConversation] = useState([
     {
