@@ -1,12 +1,88 @@
-# React + Vite
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+useless gpt 🎯
+Basic Details
+Team Name: Digital Write
+Team Members
+Team Lead: Sarang N - CUCEK
 
-Currently, two official plugins are available:
+Member 2: Muhammed Aslah - CUCEK
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Description
+A simple and funny chatbot application built with React that uses the Gemini API to generate witty, argumentative, and often incorrect responses to user input.
 
-## Expanding the ESLint configuration
+The Problem (that doesn't exist)
+The internet is filled with chatbots that are too helpful. They answer questions correctly, provide useful information, and are always polite. This creates an unrealistic standard of digital interaction. Where's the fun in that?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The Solution (that nobody asked for)
+useless gpt is our answer to this crisis. It's a chatbot that guarantees a funny, slightly argumentative, and confidently incorrect response to every query. It's designed to lower your expectations and bring a little bit of chaos back to your conversations.
+
+Technical Details
+Technologies/Components Used
+For Software:
+
+Languages: JavaScript (ES6+)
+
+Frameworks: React
+
+Libraries: None
+
+Tools: VS Code, npm, Gemini API
+
+For Hardware:
+
+Not Applicable
+
+Implementation
+For Software:
+
+Installation
+npx create-react-app useless-gpt-app
+cd useless-gpt-app
+# Then, replace the contents of src/App.js with the provided code.
+
+Run
+npm start
+
+Project Documentation
+For Software:
+
+Screenshots (Add at least 3)
+![Screenshot1](https://ibb.co/Lz902vDP)
+
+The initial greeting from our unhelpful AI.
+
+![Screenshot2](https://ibb.co/fGG9Yq1J)
+
+An example of the AI providing a confidently incorrect fact.
+
+![Screenshot3](https://ibb.co/ZzB9kxdv) Add caption explaining what this shows
+
+Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+A simple workflow: User inputs text, the app calls the Gemini API, and the AI's funny response is displayed.
+
+For Hardware:
+
+Schematic & Circuit
+Not Applicable
+
+Build Photos
+Not Applicable
+
+Project Demo
+Video
+[Add your demo video link here]
+This video shows a user having a delightfully pointless conversation with useless gpt.
+
+Additional Demos
+[Add any extra demo materials/links]
+
+Team Contributions
+[sarang n]: [concept , idea]
+
+[muhammed aslah]: [coding]
+
+
+
+Made with ❤️ at TinkerHub Useless Projects
