@@ -24,7 +24,7 @@ function App() {
 
     const chatHistory = [{ role: "user", parts: [{ text: prompt }] }];
     const payload = { contents: chatHistory };
-    const apiKey = ""; // Leave empty, will be handled by the environment
+    const apiKey = "AIzaSyBr1SfmHnbjBoitcjzh6AjyVHum1_lRxvg"; // Leave empty, will be handled by the environment
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
     try {
